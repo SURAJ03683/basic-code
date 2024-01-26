@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to the world of OUR OWN</h1>
-    <p>Please fill to fulfill our needs to be ONE of US</p>
+    <h1>Register</h1>
+    <p>Register to be part for US..!</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
