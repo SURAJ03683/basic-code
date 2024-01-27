@@ -4,7 +4,7 @@
     <p>Fill in the Needy to be part for US..!</p>
     <hr>
      
-    <label for="Name"><b>How could we Call you</b></label>
+    <label for="Name"><b>How would you like to be called as</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
