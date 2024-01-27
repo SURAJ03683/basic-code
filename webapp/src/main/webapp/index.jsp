@@ -4,15 +4,15 @@
     <p>Fill in the Needy to be part for US..!</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>How could we Call you</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>How can we reach you Out</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Confidential details to be shared</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
