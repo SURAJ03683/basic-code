@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register to be one of US</h1>
+    <h1>Feel great to be one of US, than feel for it too late</h1>
     <p>Fill in the Needy to be part for US..!</p>
     <hr>
      
